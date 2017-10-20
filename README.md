@@ -1,5 +1,6 @@
-# php课程代码!
+# lesson-4
 
-### 在master主线中,不会有任何的内容
+### Module Patterns 项目模块化
+### module.exports与module.exports的配合使用
 
-### 每个知识点会以分支的形式进行上传
+
